@@ -1,3 +1,9 @@
-## 1.0.0
+# Change Log
 
-- Initial version, created by Stagehand
+## 0.5.1
+
+- Doc tweaks.
+
+## 0.5.0
+
+- Initial version
